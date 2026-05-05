@@ -24,3 +24,8 @@ I'm currently focusing on learning how numerical and computational methods can b
 
 # Note
 This is a learning repo, so all the projects are basic and beginner-level as I build my understanding
+
+## Future Work
+- Exploring galaxy rotation curves
+- Learning more advanced numerical methods
+- Working with larger astronomical datasets
