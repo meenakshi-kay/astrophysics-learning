@@ -1,6 +1,6 @@
 # astrophysics-learning
 
-This repo has small projects im using to learn computational astrophysics and cosmology
+This repo has small projects I'm using to learn computational astrophysics and cosmology
 
 I'm currently focusing on learning how numerical and computational methods can be used to observe and analyse datasets
 
