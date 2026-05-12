@@ -40,7 +40,9 @@ Source:
 
 ## Sample Visualization
 
+## Sample Visualization
 
+![Light-Curve-Plot](lightcurve_plot_graph.png)
 
 ## What I Learned
 
