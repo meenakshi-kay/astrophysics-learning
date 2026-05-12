@@ -16,7 +16,7 @@ Currently, the simulation uses approximate Earth-Sun parameters, but I plan to e
 
 The gravitational force between the star and planet determines the planet's acceleration.
 
-:contentReference[oaicite:0]{index=0}
+![Orbit-Plot](images/newtons_law_formula.png)
 
 ### Vis-Viva Equation
 
