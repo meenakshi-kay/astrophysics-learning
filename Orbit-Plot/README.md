@@ -66,7 +66,7 @@ Although Euler integration is simple to implement, numerical error accumulates o
 
 ## Sample Output
 
-(Add orbit plot image here)
+![Orbit-Plot](images/earth_orbit_img.png)
 
 ## Note
 
