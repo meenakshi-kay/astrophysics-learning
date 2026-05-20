@@ -1,4 +1,5 @@
 # Orbital Motion Simulation using Python
+## Using Euler's Method
 
 This project simulates planetary orbital motion using Newton's Law of Gravitation and numerical integration techniques in Python.
 
