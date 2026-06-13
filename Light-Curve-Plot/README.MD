@@ -38,7 +38,6 @@ Source:
 - Plots flux vs time graphs
 - Visualizes brightness variation patterns
 
-## Sample Visualization
 
 ## Sample Visualization
 
